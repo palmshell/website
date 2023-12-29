@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpalmshell_website=self.webpackChunkpalmshell_website||[]).push([[765],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

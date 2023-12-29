@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpalmshell_website=self.webpackChunkpalmshell_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"new/press","permalink":"/blog/new/press"},{"title":"review/nexth2_review_by_palmshell","permalink":"/blog/review/nexth2_review_by_palmshell"}]}')}}]);
